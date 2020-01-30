@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reply-exercise",
+  "private_key_id": "1ed4935f4d3994d7e0825787017f0ac41f717602",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n\n-----END PRIVATE KEY-----\n",
+  "client_email": "mireia11@reply-exercise.iam.gserviceaccount.com",
+  "client_id": "101030240574674953428",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mireia11%40reply-exercise.iam.gserviceaccount.com"
+}

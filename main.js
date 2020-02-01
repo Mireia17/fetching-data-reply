@@ -3,7 +3,7 @@ const google = require('./googlefetch.js');
 const axios = require('axios');
 
 const headers = {
-    Authorization: 'Token c61c8933eaf4256e6a950a93701e724d0a15950a'
+    Authorization: 'Token '
 }
 
 const url = 'https://www.reply.ai/api/v1/content/';
@@ -72,7 +72,7 @@ function getAllData() {
             method: 'PUT',
             headers: { 
                 'content-type': 'application/json',
-                'Authorization': 'Token c61c8933eaf4256e6a950a93701e724d0a15950a'
+                'Authorization': 'Token '
                 
             },
             data: {
